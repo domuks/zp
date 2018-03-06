@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vėjas</string>
+
+    <string name="login_login">Prisijungimo vardas</string>
+    <string name="login_pass">Slaptažodis</string>
+    <string name="login_button">Prisijungti</string>
+    <string name="login_label">Prisijungimas</string>
+
+
+</resources>
